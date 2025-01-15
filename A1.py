@@ -1,5 +1,5 @@
 word = input ('Please Enter a Word: ')
-char = input ('Please Enter a Character: ')
+char = input ('Please Enter a Character to Count in the Word: ')
 i = 0
 count = 0
 while (i < len(word)):
